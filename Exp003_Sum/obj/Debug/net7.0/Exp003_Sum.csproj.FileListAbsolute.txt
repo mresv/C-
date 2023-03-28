@@ -1,0 +1,15 @@
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\bin\Debug\net7.0\Exp003_Sum.exe
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\bin\Debug\net7.0\Exp003_Sum.deps.json
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\bin\Debug\net7.0\Exp003_Sum.runtimeconfig.json
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\bin\Debug\net7.0\Exp003_Sum.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\bin\Debug\net7.0\Exp003_Sum.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.csproj.AssemblyReference.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.AssemblyInfoInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.AssemblyInfo.cs
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\refint\Exp003_Sum.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\Exp003_Sum.genruntimeconfig.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp003_Sum\obj\Debug\net7.0\ref\Exp003_Sum.dll
