@@ -1,0 +1,15 @@
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\bin\Debug\net7.0\Exp004_Частное.exe
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\bin\Debug\net7.0\Exp004_Частное.deps.json
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\bin\Debug\net7.0\Exp004_Частное.runtimeconfig.json
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\bin\Debug\net7.0\Exp004_Частное.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\bin\Debug\net7.0\Exp004_Частное.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.csproj.AssemblyReference.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.AssemblyInfoInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.AssemblyInfo.cs
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.csproj.CoreCompileInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\refint\Exp004_Частное.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\Exp004_Частное.genruntimeconfig.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp004_Частное\obj\Debug\net7.0\ref\Exp004_Частное.dll
