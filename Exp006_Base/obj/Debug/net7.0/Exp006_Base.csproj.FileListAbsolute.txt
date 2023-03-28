@@ -1,0 +1,15 @@
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\bin\Debug\net7.0\Exp006_Base.exe
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\bin\Debug\net7.0\Exp006_Base.deps.json
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\bin\Debug\net7.0\Exp006_Base.runtimeconfig.json
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\bin\Debug\net7.0\Exp006_Base.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\bin\Debug\net7.0\Exp006_Base.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.csproj.AssemblyReference.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.AssemblyInfoInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.AssemblyInfo.cs
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.csproj.CoreCompileInputs.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\refint\Exp006_Base.dll
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.pdb
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\Exp006_Base.genruntimeconfig.cache
+C:\Users\mresv\OneDrive\Documents\GB\Examples\Exp006_Base\obj\Debug\net7.0\ref\Exp006_Base.dll
